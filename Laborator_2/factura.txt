@@ -1,5 +1,0 @@
-Client: Popescu
-Produs: Laptop
-Pret: 2500.00
-TVA: 475.00
-Cantitate: 2
